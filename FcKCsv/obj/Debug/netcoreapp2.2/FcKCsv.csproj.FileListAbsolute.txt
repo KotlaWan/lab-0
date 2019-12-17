@@ -1,0 +1,35 @@
+D:\Универ\4 КУРС\1 СЕМЕСТР\CSV задание\FcKCsv\FcKCsv\bin\Debug\netcoreapp2.2\FcKCsv.deps.json
+D:\Универ\4 КУРС\1 СЕМЕСТР\CSV задание\FcKCsv\FcKCsv\bin\Debug\netcoreapp2.2\FcKCsv.runtimeconfig.json
+D:\Универ\4 КУРС\1 СЕМЕСТР\CSV задание\FcKCsv\FcKCsv\bin\Debug\netcoreapp2.2\FcKCsv.runtimeconfig.dev.json
+D:\Универ\4 КУРС\1 СЕМЕСТР\CSV задание\FcKCsv\FcKCsv\bin\Debug\netcoreapp2.2\FcKCsv.dll
+D:\Универ\4 КУРС\1 СЕМЕСТР\CSV задание\FcKCsv\FcKCsv\obj\Debug\netcoreapp2.2\FcKCsv.csprojAssemblyReference.cache
+D:\Универ\4 КУРС\1 СЕМЕСТР\CSV задание\FcKCsv\FcKCsv\obj\Debug\netcoreapp2.2\FcKCsv.csproj.CoreCompileInputs.cache
+D:\Универ\4 КУРС\1 СЕМЕСТР\CSV задание\FcKCsv\FcKCsv\obj\Debug\netcoreapp2.2\FcKCsv.AssemblyInfoInputs.cache
+D:\Универ\4 КУРС\1 СЕМЕСТР\CSV задание\FcKCsv\FcKCsv\obj\Debug\netcoreapp2.2\FcKCsv.AssemblyInfo.cs
+D:\Универ\4 КУРС\1 СЕМЕСТР\CSV задание\FcKCsv\FcKCsv\bin\Debug\netcoreapp2.2\FcKCsv.pdb
+D:\Универ\4 КУРС\1 СЕМЕСТР\CSV задание\FcKCsv\FcKCsv\obj\Debug\netcoreapp2.2\FcKCsv.dll
+D:\Универ\4 КУРС\1 СЕМЕСТР\CSV задание\FcKCsv\FcKCsv\obj\Debug\netcoreapp2.2\FcKCsv.pdb
+D:\Универ\4 КУРС\1 СЕМЕСТР\CSV задание\FcKCsv — копия (2)\FcKCsv\bin\Debug\netcoreapp2.2\FcKCsv.deps.json
+D:\Универ\4 КУРС\1 СЕМЕСТР\CSV задание\FcKCsv — копия (2)\FcKCsv\bin\Debug\netcoreapp2.2\FcKCsv.runtimeconfig.json
+D:\Универ\4 КУРС\1 СЕМЕСТР\CSV задание\FcKCsv — копия (2)\FcKCsv\bin\Debug\netcoreapp2.2\FcKCsv.runtimeconfig.dev.json
+D:\Универ\4 КУРС\1 СЕМЕСТР\CSV задание\FcKCsv — копия (2)\FcKCsv\bin\Debug\netcoreapp2.2\FcKCsv.dll
+D:\Универ\4 КУРС\1 СЕМЕСТР\CSV задание\FcKCsv — копия (2)\FcKCsv\bin\Debug\netcoreapp2.2\FcKCsv.pdb
+D:\Универ\4 КУРС\1 СЕМЕСТР\CSV задание\FcKCsv — копия (2)\FcKCsv\obj\Debug\netcoreapp2.2\FcKCsv.csprojAssemblyReference.cache
+D:\Универ\4 КУРС\1 СЕМЕСТР\CSV задание\FcKCsv — копия (2)\FcKCsv\obj\Debug\netcoreapp2.2\FcKCsv.csproj.CoreCompileInputs.cache
+D:\Универ\4 КУРС\1 СЕМЕСТР\CSV задание\FcKCsv — копия (2)\FcKCsv\obj\Debug\netcoreapp2.2\FcKCsv.AssemblyInfoInputs.cache
+D:\Универ\4 КУРС\1 СЕМЕСТР\CSV задание\FcKCsv — копия (2)\FcKCsv\obj\Debug\netcoreapp2.2\FcKCsv.AssemblyInfo.cs
+D:\Универ\4 КУРС\1 СЕМЕСТР\CSV задание\FcKCsv — копия (2)\FcKCsv\obj\Debug\netcoreapp2.2\FcKCsv.dll
+D:\Универ\4 КУРС\1 СЕМЕСТР\CSV задание\FcKCsv — копия (2)\FcKCsv\obj\Debug\netcoreapp2.2\FcKCsv.pdb
+D:\Универ\4 КУРС\1 СЕМЕСТР\CSV задание\FcKCsv — копия (2)\FcKCsv\bin\Debug\netcoreapp2.2\NLog.config
+d:\7s\CAИО\FcKCsv\FcKCsv\bin\Debug\netcoreapp2.2\NLog.config
+d:\7s\CAИО\FcKCsv\FcKCsv\bin\Debug\netcoreapp2.2\FcKCsv.deps.json
+d:\7s\CAИО\FcKCsv\FcKCsv\bin\Debug\netcoreapp2.2\FcKCsv.runtimeconfig.json
+d:\7s\CAИО\FcKCsv\FcKCsv\bin\Debug\netcoreapp2.2\FcKCsv.runtimeconfig.dev.json
+d:\7s\CAИО\FcKCsv\FcKCsv\bin\Debug\netcoreapp2.2\FcKCsv.dll
+d:\7s\CAИО\FcKCsv\FcKCsv\bin\Debug\netcoreapp2.2\FcKCsv.pdb
+d:\7s\CAИО\FcKCsv\FcKCsv\obj\Debug\netcoreapp2.2\FcKCsv.csprojAssemblyReference.cache
+d:\7s\CAИО\FcKCsv\FcKCsv\obj\Debug\netcoreapp2.2\FcKCsv.csproj.CoreCompileInputs.cache
+d:\7s\CAИО\FcKCsv\FcKCsv\obj\Debug\netcoreapp2.2\FcKCsv.AssemblyInfoInputs.cache
+d:\7s\CAИО\FcKCsv\FcKCsv\obj\Debug\netcoreapp2.2\FcKCsv.AssemblyInfo.cs
+d:\7s\CAИО\FcKCsv\FcKCsv\obj\Debug\netcoreapp2.2\FcKCsv.dll
+d:\7s\CAИО\FcKCsv\FcKCsv\obj\Debug\netcoreapp2.2\FcKCsv.pdb
